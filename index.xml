@@ -5,6 +5,25 @@
     <link>https://mechaman.github.io/</link>
     <description>Recent content on Julien Hoachuck</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mechaman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 12:10:33 -0700</lastBuildDate><atom:link href="https://mechaman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mechaman.github.io/about/</link>
+      <pubDate>Fri, 23 Apr 2021 00:04:41 -0700</pubDate>
+      
+      <guid>https://mechaman.github.io/about/</guid>
+      <description>Hello, my name is Julien.</description>
+    </item>
+    
+    <item>
+      <title>Post 1</title>
+      <link>https://mechaman.github.io/posts/test_post/</link>
+      <pubDate>Sat, 03 Oct 2020 12:10:33 -0700</pubDate>
+      
+      <guid>https://mechaman.github.io/posts/test_post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
